@@ -18,8 +18,10 @@ public class basicjavaprogramming {
             System.out.println("Palindrome");
         else
             System.out.println("Not Palindrome");
+        system.out.println("print it");
 
         sc.close();
+        
     }
 }
 
